@@ -1,0 +1,9 @@
+# .gitignore 내용
+*.mp4
+*.mov
+*.avi
+*.pt
+__pycache__/
+runs/
+.DS_Store
+.ipynb_checkpoints
